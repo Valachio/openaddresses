@@ -12,9 +12,9 @@
     "conform": {
         "number": "Full_Stree",
         "street": [
-            "StreetDir",
             "StreetName",
-            "StreetType"
+            "StreetType",
+            "StreetDir",
         ],
         "city": "Municipali",
         "format": "shapefile"
